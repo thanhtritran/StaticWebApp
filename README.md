@@ -1,0 +1,2 @@
+# StaticWebApp
+Azure StaticWebApp
